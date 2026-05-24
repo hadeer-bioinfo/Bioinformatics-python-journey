@@ -7,9 +7,10 @@ In this notebook, I practiced:
 - GC content calculation
 - Reverse complement generation
 - Counting DNA bases (A, T, G, C)
+- RNA transcription simulation
 
 Tools:
 - Python
 - Google Colab
 
-I am currently learning computational biology and bioinformatics step by step.
+I am currently learning computational biology and bioinformatics step by step through  practical mini-projects.
